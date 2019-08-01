@@ -1,0 +1,14 @@
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/hostpolicy.dll
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/hostfxr.dll
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/Tetris.exe
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/Tetris.deps.json
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/Tetris.runtimeconfig.json
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/Tetris.runtimeconfig.dev.json
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/Tetris.dll
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/bin/Debug/netcoreapp2.2/win-x64/Tetris.pdb
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/obj/Debug/netcoreapp2.2/win-x64/Tetris.csprojAssemblyReference.cache
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/obj/Debug/netcoreapp2.2/win-x64/Tetris.csproj.CoreCompileInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/obj/Debug/netcoreapp2.2/win-x64/Tetris.AssemblyInfoInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/obj/Debug/netcoreapp2.2/win-x64/Tetris.AssemblyInfo.cs
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/obj/Debug/netcoreapp2.2/win-x64/Tetris.dll
+/Users/boyandonchev/Documents/Programming/C#/Tetris/Tetris/obj/Debug/netcoreapp2.2/win-x64/Tetris.pdb

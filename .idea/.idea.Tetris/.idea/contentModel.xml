@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tetris" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controler" t="Include">
+          <e p="Service.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Field.cs" t="Include" />
+          <e p="Figures.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Tetris.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Tetris.csproj" t="IncludeRecursive" />
+        <e p="View" t="Include">
+          <e p="Display.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Tetris.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Tetris.-1159921600.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>

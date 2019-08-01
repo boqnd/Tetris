@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a83010b-163f-4fda-802a-1345d9881cae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tetris/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <marker date="1564237758796" expanded="true" signature="6:56" ph="..." />
+                <marker date="1564237758796" expanded="true" signature="74:230" ph="{...}" />
+                <marker date="1564237758796" expanded="true" signature="94:228" ph="{...}" />
+                <marker date="1564237758796" expanded="true" signature="140:222" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tetris/Model/Field.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding>
+                <marker date="1564261960915" expanded="true" signature="57:681" ph="{...}" />
+                <marker date="1564261960915" expanded="true" signature="82:679" ph="{...}" />
+                <marker date="1564261960915" expanded="true" signature="184:282" ph="{...}" />
+                <marker date="1564261960915" expanded="true" signature="353:431" ph="{...}" />
+                <marker date="1564261960915" expanded="true" signature="456:534" ph="{...}" />
+                <marker date="1564261960915" expanded="true" signature="558:673" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tetris/View/Display.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <marker date="1564261743102" expanded="true" signature="6:33" ph="..." />
+                <marker date="1564261743102" expanded="true" signature="56:3618" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="83:3616" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="159:1118" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="214:958" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="336:870" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="502:591" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="628:717" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="742:831" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="1043:1108" ph="{...}" />
+                <marker date="1564261743102" expanded="true" signature="1162:3601" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tetris/Controler/Service.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="136" column="38" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
+              <folding>
+                <marker date="1564263336789" expanded="true" signature="6:129" ph="..." />
+                <marker date="1564263336789" expanded="true" signature="157:10697" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="184:10693" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="378:464" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="584:704" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="736:804" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="836:937" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="965:10685" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="1213:10672" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="1744:2072" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="2106:4562" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="2162:3243" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="2256:2640" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="2712:3221" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="2817:3195" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="3265:4372" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="3359:3744" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="3816:4325" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="3921:4299" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="4394:4544" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="4748:6170" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="4940:5617" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="5806:6152" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="6205:7802" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="6794:6880" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="7855:9954" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="8008:8544" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="8165:8368" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="8407:8522" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="8594:9873" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="8693:8786" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="8809:8902" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="8926:9019" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="9202:9319" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="9420:9851" ph="{...}" />
+                <marker date="1564263336789" expanded="true" signature="9597:9825" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tetris/Model/Figures.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+              <folding>
+                <marker date="1564263511825" expanded="true" signature="57:2607" ph="{...}" />
+                <marker date="1564263511825" expanded="true" signature="84:2605" ph="{...}" />
+                <marker date="1564263511825" expanded="true" signature="133:217" ph="{...}" />
+                <marker date="1564263511825" expanded="true" signature="258:350" ph="{...}" />
+                <marker date="1564263511825" expanded="true" signature="471:2599" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Tetris/View/Display.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tetris/Model/Field.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tetris/Controler/Service.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tetris/Model/Figures.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tetris/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tetris/Program.cs" />
+        <option value="$PROJECT_DIR$/Tetris/View/Display.cs" />
+        <option value="$PROJECT_DIR$/Tetris/Model/Field.cs" />
+        <option value="$PROJECT_DIR$/Tetris/Controler/Service.cs" />
+        <option value="$PROJECT_DIR$/Tetris/Model/Figures.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="350" />
+    <option name="y" value="61" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tetris" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tetris" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tetris" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tetris" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tetris" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controler" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tetris" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tetris" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Model" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TetrisBuilds/TetrisWin" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Publish to folder.Publish Tetris to folder (3)">
+    <configuration name="Publish Tetris to folder (1)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="win-x64" self_contained="true" target_folder="$USER_HOME$/Desktop/Tetris/TetrisWin" target_framework="netcoreapp2.2" uuid_high="6629702482444241108" uuid_low="-7012678937047959429" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish Tetris to folder (2)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="osx-x64" self_contained="true" target_folder="$PROJECT_DIR$/TetrisBuilds/TetrisMac" target_framework="netcoreapp2.2" uuid_high="6629702482444241108" uuid_low="-7012678937047959429" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish Tetris to folder (3)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="win-x64" self_contained="true" target_folder="$PROJECT_DIR$/TetrisBuilds/TetrisWin" target_framework="netcoreapp2.2" uuid_high="6629702482444241108" uuid_low="-7012678937047959429" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish Tetris to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="osx-x64" self_contained="true" target_folder="$USER_HOME$/Desktop/Tetris/TetrisMac" target_framework="netcoreapp2.2" uuid_high="6629702482444241108" uuid_low="-7012678937047959429" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Tetris/bin/Debug/netcoreapp2.2/Tetris.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tetris" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tetris/Tetris.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Publish to folder.Publish Tetris to folder (3)" />
+        <item itemvalue="Publish to folder.Publish Tetris to folder (2)" />
+        <item itemvalue="Publish to folder.Publish Tetris to folder (1)" />
+        <item itemvalue="Publish to folder.Publish Tetris to folder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a83010b-163f-4fda-802a-1345d9881cae" name="Default Changelist" comment="" />
+      <created>1564235590456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564235590456</updated>
+      <workItem from="1564235592231" duration="23188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23188000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.16595136" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.03821656" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.03821656" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.15031847" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tetris/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1564237758796" expanded="true" signature="6:56" ph="..." />
+            <marker date="1564237758796" expanded="true" signature="74:230" ph="{...}" />
+            <marker date="1564237758796" expanded="true" signature="94:228" ph="{...}" />
+            <marker date="1564237758796" expanded="true" signature="140:222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tetris/Model/Field.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <marker date="1564261960915" expanded="true" signature="57:681" ph="{...}" />
+            <marker date="1564261960915" expanded="true" signature="82:679" ph="{...}" />
+            <marker date="1564261960915" expanded="true" signature="184:282" ph="{...}" />
+            <marker date="1564261960915" expanded="true" signature="353:431" ph="{...}" />
+            <marker date="1564261960915" expanded="true" signature="456:534" ph="{...}" />
+            <marker date="1564261960915" expanded="true" signature="558:673" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tetris/View/Display.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <marker date="1564261743102" expanded="true" signature="6:33" ph="..." />
+            <marker date="1564261743102" expanded="true" signature="56:3618" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="83:3616" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="159:1118" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="214:958" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="336:870" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="502:591" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="628:717" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="742:831" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="1043:1108" ph="{...}" />
+            <marker date="1564261743102" expanded="true" signature="1162:3601" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tetris/Controler/Service.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="136" column="38" selection-start-line="136" selection-start-column="38" selection-end-line="136" selection-end-column="38" />
+          <folding>
+            <marker date="1564263336789" expanded="true" signature="6:129" ph="..." />
+            <marker date="1564263336789" expanded="true" signature="157:10697" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="184:10693" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="378:464" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="584:704" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="736:804" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="836:937" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="965:10685" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="1213:10672" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="1744:2072" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="2106:4562" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="2162:3243" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="2256:2640" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="2712:3221" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="2817:3195" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="3265:4372" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="3359:3744" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="3816:4325" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="3921:4299" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="4394:4544" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="4748:6170" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="4940:5617" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="5806:6152" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="6205:7802" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="6794:6880" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="7855:9954" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="8008:8544" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="8165:8368" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="8407:8522" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="8594:9873" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="8693:8786" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="8809:8902" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="8926:9019" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="9202:9319" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="9420:9851" ph="{...}" />
+            <marker date="1564263336789" expanded="true" signature="9597:9825" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tetris/Model/Figures.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+          <folding>
+            <marker date="1564263511825" expanded="true" signature="57:2607" ph="{...}" />
+            <marker date="1564263511825" expanded="true" signature="84:2605" ph="{...}" />
+            <marker date="1564263511825" expanded="true" signature="133:217" ph="{...}" />
+            <marker date="1564263511825" expanded="true" signature="258:350" ph="{...}" />
+            <marker date="1564263511825" expanded="true" signature="471:2599" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
