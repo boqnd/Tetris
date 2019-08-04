@@ -11,7 +11,7 @@ CONTROLLS:
 ### What I learned
 * Better understanding of console applications
 * Multithreading in C#
-    1. What is multithreading
-    2. How to implement it
-    3. Where is useful
+    * What is multithreading
+    * How to implement it
+    * Where is useful
 * Improved algoritmic thinking
